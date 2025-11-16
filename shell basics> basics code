@@ -1,0 +1,10 @@
+ls 
+cat
+mv
+cp
+mkdir
+touch 
+pwd 
+rm
+echo
+#!/bin/bash 
